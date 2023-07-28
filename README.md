@@ -8,3 +8,4 @@
 6. You can then see the front end by typing 'localhost' and pressing enter ,then select the project file anf it will start executing.
 7. To see the backend , go to chrome (make sure you have hosted the servers ) and type php myadmin and press enter .
 8. Then you will see the database named earthygarden,click on it to see all the backend tables.
+9. Earthy_Garden has the captures of the website.
